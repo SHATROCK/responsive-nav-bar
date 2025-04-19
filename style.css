@@ -43,6 +43,7 @@ ul li a:hover{
 @media all and (max-width:540px){
     nav{
         flex-direction: column;
+        font-size:20px;
     }
     ul{
         flex-direction: column;
